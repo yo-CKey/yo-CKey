@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do <CK> 😁
+## Bem-vindo(a) ao perfil do < CK > 😁
 
  <div>
    <a href="https://github.com/yo-CKey">
